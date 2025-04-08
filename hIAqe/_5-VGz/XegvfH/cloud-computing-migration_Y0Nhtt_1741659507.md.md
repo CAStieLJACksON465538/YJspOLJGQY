@@ -9,7 +9,6 @@ time to follow this guide.
 
 ## Where to start
 
-There are many ways to contribute. You can fix a bug, improve the documentation,
 submit bug reports and feature requests, or take a first shot at a feature you
 need for yourself.
 
